@@ -8,6 +8,6 @@ They can also be used as a foundation for the layered architecture I will build 
 
 Technologies and tools used
 
-MS Visual Studio 2017
-MS SQL Server Management studio 2017
-Win 10 OS
+1. MS Visual Studio 2017
+2. MS SQL Server Management studio 2017 
+3. Win 10 OS
